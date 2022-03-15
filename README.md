@@ -1,6 +1,6 @@
 # donut_counter
 
-A new Flutter project.
+A new Flutter project. It will count the number of donut. Main focus is to show dynamic operation in Stateful Widget in Flutter
 
 ## Getting Started
 
